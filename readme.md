@@ -18,7 +18,7 @@ A classic word guessing game built with Python. Players try to guess the word wh
  - Score system 
  - Hint system 
  - Player statistics 
- - 
+ 
  ### Categories 
  - 💻 Technology 
  - ⚽ Sports 
@@ -104,7 +104,7 @@ A classic word guessing game built with Python. Players try to guess the word wh
 
  ## Contributing 
  1. Fork the project 
- 2. Create your feature branch 
+ 2. Create your feature(bla bla bla) branch 
  3. Submit a pull request 
 
  ## License 
