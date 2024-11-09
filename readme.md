@@ -1,11 +1,4 @@
  # Hangman Game 🎮 
- ## Table of Contents 
- - About 
- - Features 
- - Installation 
- - How to Play 
- - Development 
- - License 
 
 ## About 
 A classic word guessing game built with Python. Players try to guess the word while having fun with interactive tasks. 
