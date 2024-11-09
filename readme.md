@@ -59,7 +59,11 @@ A classic word guessing game built with Python. Players try to guess the word wh
  2. Run the game: 
  ```bash
  
- python3 main.py  
+   python3 src/main.py  
+ ```
+ With Makefile:
+ ```bash
+ make run
  ```
 
  ## How to Play 
@@ -75,8 +79,9 @@ A classic word guessing game built with Python. Players try to guess the word wh
  
  ```
  hangman/
- ├── main.py
- ├── constants.py
+ ├── src/
+ │ ├── main.py
+ │ ├── constants.py
  └── README.md 
   ```
  ### Tech Stack 
@@ -108,6 +113,6 @@ A classic word guessing game built with Python. Players try to guess the word wh
  3. Submit a pull request 
 
  ## License 
- MIT © [Mehmonov] 
+ MIT © [mehmonov] 
  --- 
  Documentation is subject to updates and improvements. Feel free to contribute! 
